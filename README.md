@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsuarezr
+- 👋 Hi, I’m Norbert @nsuarezr 
 - 👀 I’m interested in  in web application development, passionate about html, CSS and JavaScript.
 - 🌱 I’m currently learning CSS in depth, React and deployment of web applications in Vercel.
 - 💞️ I’m looking to collaborate on front end and back end projects.
