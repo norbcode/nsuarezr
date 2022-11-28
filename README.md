@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norberto Suarez</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 💬 Ask me about **Html, JavaScript, CSS, Node.js, React.**
+- 💬 Ask me about **HTML, JavaScript, CSS, Node.js, React.**
 
 - 📫 How to reach me **www.linkedin.com/in/nsuarezr/**
 
